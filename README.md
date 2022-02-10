@@ -1,6 +1,6 @@
 # ToolLibrarySystem
 ## Build Instructions
-1. Open the '1ToolLibrarySystem.sln' file with Microsoft Visual Studio
+1. Open the 'ToolLibrarySystem.sln' file with Microsoft Visual Studio
 2. Then just start the program
 
 ## Usage 
